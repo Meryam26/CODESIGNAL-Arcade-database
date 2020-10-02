@@ -7,7 +7,7 @@
 
 2-[CountriesSelection](CountriesSelection.sql)
 
-3-[MonthlyScholarships](MonthlyScholarships.sql)
+3-[MonthlyScholarships](monthlyScholarships.sql)
 
 4-
 
