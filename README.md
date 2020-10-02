@@ -5,9 +5,9 @@
 
 1-[projectList](projectList.sql)
 
-2-CountriesSelection
+2-[CountriesSelection](CountriesSelection.sql)
 
-3-Monthly Scholarships
+3-[MonthlyScholarships](MonthlyScholarships.sql)
 
 4-
 
