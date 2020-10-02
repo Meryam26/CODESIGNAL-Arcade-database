@@ -3,7 +3,7 @@
 
 # List of problems :
 
-1-[projectList](other_file.md)
+1-[projectList](projectList.sql)
 
 2-CountriesSelection
 
@@ -12,8 +12,13 @@
 4-
 
 5-
+
 6-
+
 7-
+
 8-
+
 9-
+
 10-
